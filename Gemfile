@@ -4,6 +4,7 @@ group :test do
   gem 'rake-compiler'
   gem 'minitest'
   gem 'actionview'
+  gem 'ruby_memcheck'
 end
 
 group :benchmark do
